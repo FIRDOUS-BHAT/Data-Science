@@ -37,3 +37,11 @@ To run the projects and code snippets in this repository, you will need to have 
 - Dependency 3
 
 You can install these dependencies by running the following command:
+
+Install Numpy
+
+pip install numpy
+
+Install Pandas
+
+pip install pandas
