@@ -40,8 +40,22 @@ You can install these dependencies by running the following command:
 
 Install Numpy
 
-pip install numpy
+<div class="termy">
+
+```console
+$ pip install numpy
+
+```
+
+</div>
 
 Install Pandas
 
-pip install pandas
+<div class="termy">
+
+```console
+$ pip install pandas
+
+```
+
+</div>
