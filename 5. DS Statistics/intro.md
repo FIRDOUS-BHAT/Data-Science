@@ -1,4 +1,4 @@
-Introduction to Statistics
+# Introduction to Statistics
 Statistics is the science of analyzing data.
 
 When we have created a model for prediction, we must assess the prediction's reliability.
@@ -6,7 +6,7 @@ When we have created a model for prediction, we must assess the prediction's rel
 After all, what is a prediction worth, if we cannot rely on it?
 
 
-Descriptive Statistics
+# Descriptive Statistics
 We will first cover some basic descriptive statistics.
 
 Descriptive statistics summarizes important features of a data set such as:
