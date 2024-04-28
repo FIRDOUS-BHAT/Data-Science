@@ -38,7 +38,7 @@ To run the projects and code snippets in this repository, you will need to have 
 
 You can install these dependencies by running the following command:
 
-Install Numpy
+Install Numpy:
 
 <div class="termy">
 
@@ -49,7 +49,7 @@ $ pip install numpy
 
 </div>
 
-Install Pandas
+Install Pandas:
 
 <div class="termy">
 
